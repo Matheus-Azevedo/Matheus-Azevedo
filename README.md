@@ -1,12 +1,12 @@
 ### Primeiramente seja Bem Vindo!
 
-> Me chamo Matheus Eduardo, sou bacharel em Ciência da Computação com MBA Gestão Empresarial; 🤙
-> Já trabalhei na área de Logística e Segurança Privada como operador de campo da transportadora multinacional Brink's, atuando em diversas funções entre elas a manutenção de cofres;
-> Todo este background me deu um conhecimento bastante diversificado sobre a indústria e insights poderosos para aplicação de tecnologias;
-> Hoje faço parte do corpo estudantil da Trybe e procuro desenvolver hards skills em Desenvolvimento Web para reforçar meu expertise e promover soluções;
+> Me chamo Matheus Eduardo, sou bacharel em Ciência da Computação com MBA Gestão Empresarial; 🤙<br>
+> Já trabalhei na área de Logística e Segurança Privada como operador de campo da transportadora multinacional Brink's, atuando em diversas funções entre elas a manutenção de cofres;<br>
+> Todo este background me deu um conhecimento bastante diversificado sobre a indústria e insights poderosos para aplicação de tecnologias;<br>
+> Hoje faço parte do corpo estudantil da Trybe e procuro desenvolver hards skills em Desenvolvimento Web para reforçar meu expertise e promover soluções;<br>
 
-Rumo ao Full Stack!
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="100" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="100" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="100" width="100"/>
+Rumo ao Full Stack!<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" width="50"/>
 
 Contatos:
 <div>
