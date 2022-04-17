@@ -6,9 +6,7 @@
 > Hoje faço parte do corpo estudantil da Trybe e procuro desenvolver hards skills em Desenvolvimento Web para reforçar meu expertise e promover soluções;
 
 Rumo ao Full Stack!
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="200" width="3200"/>      
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="200" width="3200"//>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="200" width="3200"//>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="100" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="100" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="100" width="100"/>
 
 Contatos:
 <div>
