@@ -1,6 +1,5 @@
-<p><font size="6">Primeiramente seja Bem Vindo!</font></p>
-<font size="1"> Primeiramente seja Bem Vindo!</font> <br/>
-<font size="3"> Me chamo Matheus Eduardo🤙</font> <br/>
+<font size="1"> Primeiramente seja Bem Vindo! </font><br>
+<font size="1"> Me chamo Matheus Eduardo🤙 </font> <br/>
 
 
 
