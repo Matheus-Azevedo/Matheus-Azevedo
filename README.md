@@ -1,6 +1,10 @@
-### Primeiramente seja Bem Vindo! 🤙
+<body> 
+    <font size="4"> Primeiramente seja Bem Vindo!/font> <br />
+    <font size="3"> Me chamo Matheus Eduardo🤙</font> <br />
+</body>
 
-➡️ Me chamo Matheus Eduardo, sou bacharel em Ciência da Computação com MBA Gestão Empresarial;<br>
+
+➡️ Sou bacharel em Ciência da Computação com MBA Gestão Empresarial;<br>
 ➡️ Já trabalhei na área de Logística e Segurança Privada como operador de campo da transportadora multinacional Brink's, atuando em diversas funções entre elas a manutenção de cofres;<br>
 ➡️ Todo este background me deu um conhecimento bastante diversificado sobre a indústria e insights poderosos para aplicação de tecnologias;<br>
 ➡️ Hoje faço parte do corpo estudantil da Trybe e procuro desenvolver hards skills em Desenvolvimento Web para reforçar meu expertise e promover soluções;<br>
