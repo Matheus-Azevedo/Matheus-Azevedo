@@ -8,7 +8,7 @@
 ➡️ Todo este background me deu um conhecimento bastante diversificado sobre a indústria e insights poderosos para aplicação de tecnologias;<br>
 ➡️ Hoje faço parte do corpo estudantil da Trybe e procuro desenvolver hards skills em Desenvolvimento Web para reforçar meu expertise e promover soluções;<br>
 <br>
-Acompanhe meu portfólio em construção: <a href="https://matheus-azevedo.github.io/my-portfolio-matheus-eduardo/>Visite meu Portfólio aqui!</a>
+Acompanhe meu portfólio em construção: <a href="https://matheus-azevedo.github.io/my-portfolio-matheus-eduardo/">Visite meu Portfólio aqui!</a>
 <br>
 <br>
 Rumo ao Full Stack!<br>
