@@ -1,23 +1,17 @@
 # Primeiramente seja Bem Vindo!
 ### Me chamo Matheus Eduardo 🤙
 
-
-
-➡️ Sou bacharel em Ciência da Computação com MBA Gestão Empresarial;<br>
-➡️ Já trabalhei na área de Logística e Segurança Privada como operador de campo da transportadora multinacional Brink's, atuando em diversas funções entre elas a manutenção técnica em cofres eletrônicos e chefe de guarnição;<br>
-➡️ Todo este background me deu um conhecimento bastante diversificado sobre a indústria e insights poderosos para aplicação de tecnologias;<br>
-➡️ Hoje faço parte do corpo estudantil da Trybe e procuro desenvolver hards skills em Desenvolvimento Web para reforçar meu expertise e promover soluções;<br>
+:satisfied: Sou Full Stack Developer, Bacharel em Ciência da Computação com MBA em Gestão Empresarial;<br>
+:sunglasses: Fui Técnico e Chefe de guarnição pela multinacional pioneira em segurança e transporte de valores, Brink's;<br>
+:scream: E sou taxativo: não dá pra viver sem cibersegurança e inteligência artificial.
 <br>
+
 Acompanhe meu portfólio em construção: <a href="https://matheus-azevedo.github.io/my-portfolio-matheus-eduardo/">Visite meu Portfólio aqui!</a>
 <br>
 <br>
-Rumo ao Full Stack!<br>
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="50" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="50" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="50" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="50" width="50"/>
-          
-          
-          
-               
+Rumo ao aperfeiçoamento costante!<br>
+<br>        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" width="50"/>
 
 Contatos:
 <div>
