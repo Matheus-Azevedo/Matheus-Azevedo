@@ -9,7 +9,7 @@
 Acompanhe meu portfólio em construção: <a href="https://matheus-azevedo.github.io/my-portfolio-matheus-eduardo/">Visite meu Portfólio aqui!</a>
 <br>
 <br>
-Rumo ao aperfeiçoamento costante!<br>
+Foco no aperfeiçoamento costante!<br>
 <br>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" width="50"/>
 
