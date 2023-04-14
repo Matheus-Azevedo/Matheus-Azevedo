@@ -1,7 +1,7 @@
 # Primeiramente seja Bem Vindo!
 ### Me chamo Matheus Eduardo 🤙
 
-:satisfied: Sou Backend Developer, Bacharel em Ciência da Computação com MBA em Gestão Empresarial;<br>
+:satisfied: Sou Fullstack Developer, Bacharel em Ciência da Computação com MBA em Gestão Empresarial;<br>
 :sunglasses: Fui Técnico e Chefe de guarnição pela multinacional pioneira em segurança e transporte de valores, Brink's;<br>
 :scream: E sou taxativo: não dá pra viver sem cibersegurança e inteligência artificial.
 <br>
@@ -10,6 +10,12 @@ Acompanhe meu portfólio em construção: <a href="https://matheus-azevedo.githu
 <br>
 <br>
 Foco no aperfeiçoamento constante!
+<br>
+
+FRONTEND
+<br>
+<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="50" width="50"/>
+<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" width="50"/>
 <br>
 
 BACKEND
