@@ -14,13 +14,7 @@ Portfólio 2023: <a href="https://my-portfolio-2023-01.vercel.app/">Visite meu P
 Foco no aperfeiçoamento constante!
 <br>
 
-FRONTEND
-<br>
-<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="50" width="50"/>
-<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" width="50"/>
-<br>
-
-BACKEND
+BACKEND STACKS PRIMÁRIAS
 <br>
 <img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" width="50"/>
 <img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="50"/>
@@ -32,6 +26,12 @@ BACKEND
 <img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" width="50"/>
 <br>
 
+FRONTEND STACKS SECUNDÁRIAS
+<br>
+<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="50" width="50"/>
+<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" width="50"/>
+<br>
+
 TESTING
 <br>
 <img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" width="50"/>
@@ -39,7 +39,7 @@ TESTING
 <br>
 
 CONTATOS
-<div>
+<br>
 <a href = "matheuseduardo.jp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheuseduardosousaazevedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<br>
