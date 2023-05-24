@@ -1,7 +1,7 @@
 # Primeiramente seja Bem Vindo!
 ### Me chamo Matheus Eduardo 🤙
 
-:satisfied: Sou Backend Developer, Bacharel em Ciência da Computação com MBA em Gestão Empresarial;<br>
+:satisfied: Sou Fullstack Developer, Bacharel em Ciência da Computação com MBA em Gestão Empresarial;<br>
 :sunglasses: Fui Técnico e Chefe de guarnição pela multinacional pioneira em segurança e transporte de valores, Brink's;<br>
 :scream: E sou taxativo: não dá pra viver sem cibersegurança e inteligência artificial.
 <br>
