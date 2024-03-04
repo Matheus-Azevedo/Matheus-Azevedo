@@ -1,9 +1,11 @@
 # Primeiramente seja Bem Vindo!
 ### Me chamo Matheus Eduardo 🤙
 
-:satisfied: Sou Fullstack Developer, Bacharel em Ciência da Computação com MBA em Gestão Empresarial;<br>
-:sunglasses: Fui Técnico e Chefe de guarnição pela multinacional pioneira em segurança e transporte de valores, Brink's;<br>
-:scream: E sou taxativo: não dá pra viver sem cibersegurança e inteligência artificial.
+:satisfied: Sou Bacharel em Ciência da Computação com MBA em Gestão Empresarial e cursando Pós Graduação em Desenvolvimento Web Full Stack;
+
+:sunglasses: Fui Técnico e Chefe de guarnição pela multinacional pioneira em segurança e transporte de valores, Brink's;
+
+:scream: Atuo hoje como Desenvolvedor/Squad Leader no projeto EscalaPRO da Fábrica de Software.
 <br>
 
 Portfólio 2022: <a href="https://matheus-azevedo.github.io/my-portfolio-matheus-eduardo/">Visite meu Portfólio aqui!</a>
