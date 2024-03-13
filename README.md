@@ -4,7 +4,7 @@
 :satisfied: Sou Bacharel em **Ciência da Computação** com MBA em **Gestão Empresarial** e cursando Pós Graduação em **Desenvolvimento Web Full Stack**;
 
 
-:scream: Fui **Técnico** e **Chefe de guarnição** pela multinacional pioneira em segurança e transporte de valores, **Brink's**;
+:scream: Fui **Técnico** e **Chefe de Guarnição** pela multinacional pioneira em segurança e transporte de valores, **Brink's**;
 
 
 :sunglasses: Atuo hoje como **Desenvolvedor/Squad Leader** no projeto **EscalaPRO** da **Fábrica de Software**.
