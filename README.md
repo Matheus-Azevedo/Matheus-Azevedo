@@ -20,9 +20,9 @@ Foco no aperfeiçoamento constante!
 <br>
 <img className='icons' alt='icon-tool' src="https://uxwing.com/wp-content/themes/uxwing/download/arts-graphic-shapes/website-ux-icon.png" height="50" width="50"/>
 <img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50" width="50"/>
-<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="50" width="50"/>
-<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" hight="50" width="50"/>
-<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="50" width="50"/>
+<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" width="50"/>
+<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" hight="50" width="50"/>
+<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="50" width="50"/>
 <br>
 
 CONTATOS
