@@ -23,6 +23,9 @@ Foco no aperfeiçoamento constante!
 <img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" width="50"/>
 <img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" hight="50" width="50"/>
 <img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="50" width="50"/>
+<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="50" width="50"/>
+<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" width="50"/>
+<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="50" width="50"/>
 <br>
 
 CONTATOS
