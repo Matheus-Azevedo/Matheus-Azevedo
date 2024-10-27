@@ -7,7 +7,7 @@
 :scream: Fui **Técnico** e **Chefe de Guarnição** pela multinacional pioneira em segurança e transporte de valores, **Brink's**;
 
 
-:sunglasses: Atuo hoje como **Desenvolvedor** na startup **Neoron**.
+:sunglasses: Atuo hoje como **Desenvolvedor Web** na startup **Neoron**.
 
 <div>
   <img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50" width="50"/>
