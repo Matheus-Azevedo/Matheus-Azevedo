@@ -9,15 +9,12 @@
 
 :sunglasses: Atuo hoje como **Desenvolvedor** na startup **Neoron**.
 
-<br>
-<br>
-Foco no aperfeiçoamento constante!
-<br>
-<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50" width="50"/>
-<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="50" width="50"/>
-<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="50" width="50"/>
-<img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" width="50"/>
-<br>
+<div>
+  <img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50" width="50"/>
+  <img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="50" width="50"/>
+  <img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="50" width="50"/>
+  <img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" width="50"/>
+</div>
 
 CONTATOS
 <br>
