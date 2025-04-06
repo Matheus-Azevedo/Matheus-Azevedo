@@ -1,13 +1,11 @@
 # Primeiramente seja Bem Vindo!
-### Me chamo Matheus Eduardo 🤙
+### Me chamo Matheus Eduardo 🫡
 
-:satisfied: Sou Bacharel em **Ciência da Computação** com MBA em **Gestão Empresarial** e **Especialista em Desenvolvimento Web Full Stack**;
-
-
-:scream: Fui **Técnico** e **Chefe de Guarnição** pela multinacional pioneira em segurança e transporte de valores, **Brink's**;
-
-
-:sunglasses: Atuo hoje como **Desenvolvedor Web** na startup **Neoron**.
+Sou Bacharel em Ciência da Computação com MBA em Gestão Empresarial e Especialista em Desenvolvimento Web Full Stack, fui Técnico e Chefe de Guarnição pela multinacional pioneira em segurança e transporte de valores, Brink's.     
+ 
+Já atuei como Squad Leader/Desenvolvedor Fullstack no projeto EscalaPRO para o Internato de Medicina no Centro Universitário de João Pessoa pela Fábrica de Software do UNIPÊ.
+ 
+Hoje atuo como Desenvolvedor Fullstack pela startup NEORON, especializada em Inteligência Artificial Conversacional. 
 
 <div>
   <img className='icons' alt='icon-tool' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50" width="50"/>
