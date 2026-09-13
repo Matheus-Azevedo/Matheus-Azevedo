@@ -6,7 +6,7 @@ Engenheiro de software fullstack: orquestro agentes de IA generativa para especi
 
 ## Onde atuo
 
-No mercado de software desde **novembro de 2023**. Remunerado desde **outubro de 2024**.
+No mercado de software desde **novembro de 2023**.
 
 Desde janeiro de 2026, **Inova-AF** (IFPB) — sistemas web de saúde pública (Farmácia Popular e Farmácia Digital do Brasil), com React e NestJS.
 
